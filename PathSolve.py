@@ -48,5 +48,3 @@ spins, energy = s.solve_qubo(Q, timeout = 30)
 
 #выводим результат
 print(spins)
-
-#commit2
