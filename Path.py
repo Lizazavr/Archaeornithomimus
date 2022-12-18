@@ -6,3 +6,4 @@ np.save("adjacency.npy",adj)
 img_array = np.load('adjacency.npy')
 
 print(img_array)
+#commit
